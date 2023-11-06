@@ -1,6 +1,6 @@
 # Boston_Pricing
 
-Goal: To find the best Machine Learning Regression Model to Predict the housing prices from the Boston Housing dataset.
+Goal: To find the best Machine Learning Regression Model to Predict the housing prices from the Boston Housing dataset. Also using 'PYCARET' package to find which regression model performs best on the given dataset.
 
 1. EDA:
    Performed 60-40 train-test split.
@@ -18,5 +18,7 @@ Goal: To find the best Machine Learning Regression Model to Predict the housing 
 3. Evaluation Metrics Used:
    1. Mean Squared Error (MSE)
    2. R-Squared (R2)
-  
+
+4. Using Pycaret to train, fit, and predict the outcome.
+
 
